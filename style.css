@@ -130,6 +130,7 @@ button {
     font-family: "Archivo Black", "Archivo", sans-serif;
     font-weight: normal;
     text-transform: uppercase;
+    text-align: left;
   }
   
   .palyground {
