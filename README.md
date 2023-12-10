@@ -1,4 +1,4 @@
-# Tic_Tac_Toe.github.io
+# Tic-Tac-Toe
 
 https://vardhanrajya08.github.io/Tic-Tac-Toe/
 
